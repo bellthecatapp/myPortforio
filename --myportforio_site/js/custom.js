@@ -7,7 +7,7 @@ window.addEventListener('load', function () {
     loadingElement.classList.add('show-logo');
     setTimeout(function () {
         loadingElement.classList.add('hidden');
-    }, 1500);
+    }, 3000);
 });
 
 // loading only once
